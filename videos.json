@@ -1,15 +1,20 @@
 {
   "videos": [
     {
-      "id": "VIMEO_VIDEO_ID",
-      "title": "Film Title",
-      "description": "Film description",
+      "id": "1174178376",
+      "title": "last shrift #briss",
+      "description": "A meditation on final things — confession, silence, and the spaces between words.",
       "date": "2026",
       "protected": false,
-      "passcode": "",
-      "duration": "1:39:02",
-      "genre": "Drama",
-      "rating": 4.5
+      "passcode": ""
+    },
+    {
+      "id": "1174173614",
+      "title": "cold_storage #briss",
+      "description": "Frozen moments, preserved light — what we keep when warmth is gone.",
+      "date": "2026",
+      "protected": false,
+      "passcode": ""
     }
   ]
 }
