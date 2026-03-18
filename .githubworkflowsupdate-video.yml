@@ -20,8 +20,8 @@ jobs:
           
       - name: Commit and push changes
         run: |
-          git config user.name "yaya-bot"
-          git config user.email "bot@yaya.space"
+          git config user.name "briss-bot"
+          git config user.email "bot@briss.space"
           git add videos.json
           git diff --quiet && git diff --staged --quiet || git commit -m "🎬 video update from admin panel [skip ci]"
           git push
